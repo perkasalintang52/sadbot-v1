@@ -61,8 +61,8 @@ global.nameown = 'Kahfi Official 🇮🇩' //Nama mu
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285380166282'], //Owner1
-  ['6285380166282'], //Owner2
+  ['6285791677204'], //Owner1
+  ['6285791677204'], //Owner2
   ['6285380166282'], //Owner3
   ['6285380166282', 'Kahfi-XD ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
