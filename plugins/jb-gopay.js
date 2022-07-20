@@ -5,18 +5,18 @@ Hay👋‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
 💳 Via: Gopay
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: 081322577123
+👤 A/n: Jocey Lintang
+📦 Mitra: Sad Botz
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
 
-Apk TokoBot: https://app.bukaolshop.com/toko/tokobot
+Apk TokoBot: https://instagram.com/joceylintangg
 
-Apk FangzApp:https://web.jagel.id/store/fangzapp
+Apk FangzApp:https://tiktok.com/@joceylintangg
 
-Toko Website:https://toko.ly/TokoBot   (Non apk)
+
 
 ✏️ _Informasi Pembayaran_
 
