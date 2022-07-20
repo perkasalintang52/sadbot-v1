@@ -4,7 +4,7 @@ let text = `*${htki} DISCOUNT ${htka}*
           • Ada di TokoBot •
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Link', url: 'https://toko.ly/TokoBot'}},
+    {index: 1, urlButton: {displayText: 'Link', url: 'https://instagram.com/joceylintangg'}},
 ]
 let tm = {
 text: text,
