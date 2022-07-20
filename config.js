@@ -38,33 +38,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Kahfi_ofc' //Instagram mu
-global.sgh = 'https://github.com/Kahfi-XD' //Github mu
-global.sgc = 'https://chat.whatsapp.com/EArOqvYKMvMKB5zdXJFVxg' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw' //Discord Mu
+global.sig = 'https://instagram.com/joceylintangg' //Instagram mu
+global.sgh = 'https://github.com/perkasalintang52' //Github mu
+global.sgc = '-' //Group WhatsApp mu
+global.sdc = '-' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '085380166282' //Dana
-global.povo = '' //Ovo
-global.pgopay = '' //Gopay
-global.ppulsa = '085380166282' //Pulsa 
-global.ppulsa2 = '085380166282' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/kahfiaja' //Saweria
+global.pdana = '081322577123' //Dana
+global.povo = '081322577123' //Ovo
+global.pgopay = '081322577123' //Gopay
+global.ppulsa = '081322577123' //Pulsa 
+global.ppulsa2 = '081322577123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = 'https://saweria.co/joceylintangg' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285295374964' //Nomor Bot mu
-global.nomorown = '6285380166282' //Nomormu
-global.namebot = 'Vanz BOT' //Nama bot mu
-global.nameown = 'Kahfi Official 🇮🇩' //Nama mu
+global.nomorbot = '6281322577123' //Nomor Bot mu
+global.nomorown = '6281322577123' //Nomormu
+global.namebot = 'Sad Botz' //Nama bot mu
+global.nameown = 'Lintang' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285791677204'], //Owner1
-  ['6285791677204'], //Owner2
-  ['6285380166282'], //Owner3
-  ['6285380166282', 'Kahfi-XD ! 🥶', true] //Ini buat kamu!
+  ['6281322577123'], //Owner1
+  ['6281322577123'], //Owner2
+  ['6281322577123'], //Owner3
+  ['6281322577123', 'Lintang ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,13 +113,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 Vanz BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Kahfi - XD❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '⫹⫺ Vanz 𝗕𝗢𝗧'
+global.wm = '                「 Sad Botz ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Lintang - Sad Botz❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '⫹⫺ Sad Botz𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: Kahfi Official' //Ganti serah lu
-global.author = '                ✧ Vanz BOT⁩ ✧' //Wm author
+global.titlebot = 'IG: @joceylintangg' //Ganti serah lu
+global.author = '                ✧ Sad Botz⁩ ✧' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
