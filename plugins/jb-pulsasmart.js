@@ -4,19 +4,19 @@ let text = `${htki} PULSA ${htka}
 👋‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
-💳 Via: Pulsa Smartfren 
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+💳 Via: Pulsa Telkomsel
+📞 Nomor: 081322577123
+👤 A/n: Jocey lintangg
+📦 Mitra: Sad Botz
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
 
-Apk TokoBot: https://app.bukaolshop.com/toko/tokobot
+Apk Instagram: https://instagram.com/joceylintangg
 
-Apk FangzApp:https://web.jagel.id/store/fangzapp
+Apk Tiktok:https://tiktok.com/@joceylintangg
 
-Toko Website:https://toko.ly/TokoBot   (Non apk)
+Toko Saweria:https://saweria.co/joceylintangg
 
 ✏️ _Informasi Pembayaran_
 
