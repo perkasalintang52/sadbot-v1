@@ -5,18 +5,18 @@ let text = `${htki} PULSA ${htka}
 
 💌 *Pembayaran*
 💳 Via: Pulsa Tri3
-📞 Nomor: 0895394988123
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: 081322577123
+👤 A/n: Jocey lintang
+📦 Mitra: Sad Botz
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
 
-Apk TokoBot: https://app.bukaolshop.com/toko/tokobot
+Apk Instagram: https://instagram.com/joceylintangg
 
-Apk FangzApp:https://web.jagel.id/store/fangzapp
+Apk Tiktok:https://tiktok.com/@joceylintangg
 
-Toko Website:https://toko.ly/TokoBot   (Non apk)
+Toko Saweria:https://saweria.co/joceylintangg
 
 ✏️ _Informasi Pembayaran_
 
