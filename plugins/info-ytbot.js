@@ -3,21 +3,21 @@ let handler = async (m, { conn, args, command }) => {
 let totalf = Object.values(global.plugins).filter(
     (v) => v.help && v.tags
   ).length;
- await conn.sendButton(m.chat, `YT: FANGZ BOT\n`,wm + '\n\n' + botdate, giflogo, [['OK','ok']], m, {
+ await conn.sendButton(m.chat, `TIktok: @joceylintangg\n`,wm + '\n\n' + botdate, giflogo, [['OK','ok']], m, {
 contextInfo: { externalAdReply :{
                         mediaUrl: '',
                         mediaType: 2,
                         description: 'anu',
                         title: bottime,
-                        body: 'By Fangz',          previewType: 0,
+                        body: 'By Lintang',          previewType: 0,
                         thumbnail: fs.readFileSync("./thumbnail.jpg"),
-                        sourceUrl: https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg
+                        sourceUrl: https://tiktok.com/@joceylintangg
                       }}
 })
 }
 
 
-handler.help = ['ytbot']
+handler.help = ['ttbot']
 handler.tags = ['info']
-handler.command = ['ytbot']
+handler.command = ['ttbot']
 export default handler
