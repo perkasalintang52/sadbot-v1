@@ -7,7 +7,7 @@ let text = `${htki} RULES ${htka}
 ┃• Spam Menu Ga Jelas
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Youtube', url: 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg'}},
+    {index: 1, urlButton: {displayText: 'Saweria', url: 'https://saweria.co/joceylintangg'}},
 ]
 let tm = {
 text: text,
