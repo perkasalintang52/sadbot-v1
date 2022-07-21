@@ -34,7 +34,7 @@ $ node .
 [ 📣 Note : Tanda $ Ga Perlu Di Ketik ]
 `
 const templateButtons = [
-    {index: 1, urlButton: {displayText: 'Script', url: 'https://s.id/-1a7RO'}},
+    {index: 1, urlButton: {displayText: 'Script', url: 'https://saweria.co/joceylintangg'}},
 ]
 let tm = {
 text: text,
